@@ -1,3 +1,13 @@
+.success {
+  color: green;
+  margin: 8px 4px;
+}
+
+.error {
+  color: red;
+  margin: 8px 4px;
+}
+
 .App {
   text-align: center;
 }

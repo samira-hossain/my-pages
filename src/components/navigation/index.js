@@ -14,6 +14,9 @@ function Navigation() {
           <li>
             <NavLink to="/projects">Projects</NavLink>
           </li>
+          <li>
+            <NavLink to="/enquiries">Enquiries</NavLink>
+          </li>
         </ul>
       </nav>
     </header>
